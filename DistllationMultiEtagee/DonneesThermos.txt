@@ -1,0 +1,4 @@
+329.44 353.24 334.33		! Tebullition en °k
+2.96E+04 3.08E+04 2.95E+04	! deltaH en J/mol
+8.05E+01 9.60E+01 6.89E+01	! Cp_vap en J/mol/K
+1.34E+02 1.47E+02 1.17E+02	! Cp_liq en J/mol/K

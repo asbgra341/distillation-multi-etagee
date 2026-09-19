@@ -1,0 +1,5 @@
+69.006 -5599.6 -7.0985 6.2237E-06 2	! Coefficient antoine (A B C D E) pour le 1er constituant en Pa
+83.107 -6486.2 -9.2194 6.9844E-06 2	! Coefficient antoine (A B C D E) pour le 2ème constituant en Pa
+146.43 -7792.3 -20.614 0.024578 1	! Coefficient antoine (A B C D E) pour le 3ème constituant en Pa
+
+

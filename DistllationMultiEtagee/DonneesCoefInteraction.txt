@@ -1,0 +1,6 @@
+0 0.3007 0.3034             ! Coefficient d'interaction binaire Aij ou 1=Acetone, 2=Benzene et 3=Chloroforme
+0.3007 0 0
+0.3034 0 0
+0 -808.935 -2691.471       ! Coefficient d'interaction binaire Cij en J/s  ou 1=Acetone, 2=Benzene et 3=Chloroforme
+2384.591304 0 0
+955.864088 0 0

@@ -1,0 +1,15 @@
+1          !	Nombre de plateaux alimentés
+14	       !	Numero des plateaux alimentés
+1          !	Débit des plateaux alimentés en mol/s
+332 	   !	Températures de chaque alimentation en °K
+0.6   	   !	Composition du 1er élément (Acetone) de chaque alimentation
+0.3   	   !	Composition du 2ème élément (Benzene) de chaque alimentation
+0.1   	   !	Composition du 3ème élément (Chloroforme) de chaque alimentation
+7.942E+04  !	Qbouilleur en j/s
+6.27E+04   !	Qcondenseur en j/s
+0          !	Nombre de soutirage liquide des plateaux (Merci de garder cette valeur par defaut s'il n'y a pas de soutirage)
+0          !	Numero de soutirage liquide des plateaux (Merci de garder cette valeur par defaut s'il n'y a pas de soutirage)
+0          !	Débit de soutirage liquide des plateaux en mol/s (Merci de garder cette valeur par defaut s'il n'y a pas de soutirage)
+0          !	Nombre de soutirage vapeur des plateaux (Merci de garder cette valeur par defaut s'il n'y a pas de soutirage)
+0          !	Numero de soutirage vapeur des plateaux (Merci de garder cette valeur par defaut s'il n'y a pas de soutirage)
+0          !	Débit de soutirage vapeur des plateaux en mol/s (Merci de garder cette valeur par defaut s'il n'y a pas de soutirage)

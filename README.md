@@ -345,7 +345,7 @@ Ce projet a été réalisé dans le cadre du **projet de modélisation des opér
 
 Le rapport complet (mise en équations, logigrammes, tests et analyse des résultats) est disponible dans [doc/Rapport MOU2. Bangoura.Aboubacar.Sidiki.pdf](doc/Rapport%20MOU2.%20Bangoura.Aboubacar.Sidiki.pdf).
 
-Ce travail prolonge un projet antérieur de 1ʳᵉ année consacré au [calcul de la température de bulle](https://github.com/abgra341/temperature-de-bulle), dont il reprend l'architecture modulaire et le principe des données externalisées, en y ajoutant le modèle NRTL, le système MESH complet et la résolution multi-plateaux.
+Ce travail prolonge un projet antérieur de 1ʳᵉ année consacré au [calcul de la température de bulle](https://github.com/asbgra341/temperature-de-bulle), dont il reprend l'architecture modulaire et le principe des données externalisées, en y ajoutant le modèle NRTL, le système MESH complet et la résolution multi-plateaux.
 
 ## 📄 Licence
 
